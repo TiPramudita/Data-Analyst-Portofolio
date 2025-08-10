@@ -5,10 +5,10 @@ Hi, I'm Titi! currently, I am on track to completing my degree in  Mathematic Ma
 
 
 ## Table Of Contents
-- [About]https://github.com/TiPramudita/Data-Analyst-Portofolio/blob/main/README.md#about
-- [Portofolio Projects]https://github.com/TiPramudita/Data-Analyst-Portofolio/blob/main/README.md#portofolio-projects
-- [Education]
-- [Contacts]
+- [About](https://github.com/TiPramudita/Data-Analyst-Portofolio/blob/main/README.md#about)
+- [Portofolio Projects](https://github.com/TiPramudita/Data-Analyst-Portofolio/blob/main/README.md#portofolio-projects)
+- [Education](https://github.com/TiPramudita/Data-Analyst-Portofolio/blob/main/README.md#education)
+- [Contacts]()
 ## Portofolio Projects
 ## Education
 ## Contacts 
