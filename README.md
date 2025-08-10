@@ -3,10 +3,10 @@
 ## About 
 Hi, I'm Titi! currently, I am on track to completing my degree in  Mathematic Major with focus on Data Scientist path.
 
-https://github.com/TiPramudita/Data-Analyst-Portofolio/blob/main/README.md#about
+
 ## Table Of Contents
 - [About]https://github.com/TiPramudita/Data-Analyst-Portofolio/blob/main/README.md#about
-- [Portofolio Projects]
+- [Portofolio Projects]https://github.com/TiPramudita/Data-Analyst-Portofolio/blob/main/README.md#portofolio-projects
 - [Education]
 - [Contacts]
 ## Portofolio Projects
