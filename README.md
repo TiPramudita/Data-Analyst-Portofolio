@@ -8,7 +8,7 @@ Hi, I'm Titi! currently, I am on track to completing my degree in  Mathematic Ma
 - [About](https://github.com/TiPramudita/Data-Analyst-Portofolio/blob/main/README.md#about)
 - [Portofolio Projects](https://github.com/TiPramudita/Data-Analyst-Portofolio/blob/main/README.md#portofolio-projects)
 - [Education](https://github.com/TiPramudita/Data-Analyst-Portofolio/blob/main/README.md#education)
-- [Contacts]()
+- [Contacts](https://github.com/TiPramudita/Data-Analyst-Portofolio/blob/main/README.md#contacts)
 ## Portofolio Projects
 ## Education
 ## Contacts 
