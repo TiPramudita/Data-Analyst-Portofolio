@@ -12,6 +12,7 @@ Hi, I'm Titi! currently, I am on track to completing my degree in  Mathematic Ma
 ## Portofolio Projects
 ### Modeling to Menstrual Cycle (Team)
 **code**: [EDA](https://colab.research.google.com/drive/1t7I2RUGd9xxjkbuQkflza58tchSg6gD2?usp=sharing)
+
 **File**: [Analisis Regresi Untuk Mengetahui Faktor-faktor Yang Mempengaruhi Panjang Siklus Menstruasi](https://drive.google.com/file/d/1FCZCPshec6v2hfPhZp0aSiu5QGEVRO5O/view?usp=sharing)
 
 **Application of Phyton** : for Data cleaning, Explanatory Data Analysis, and visualization of correlation between variables.
