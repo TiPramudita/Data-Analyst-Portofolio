@@ -17,6 +17,7 @@ Hi, I'm Titi! currently, I am on track to completing my degree in  Mathematic Ma
 **File**: [Analisis Regresi Untuk Mengetahui Faktor-faktor Yang Mempengaruhi Panjang Siklus Menstruasi](https://drive.google.com/file/d/1FCZCPshec6v2hfPhZp0aSiu5QGEVRO5O/view?usp=sharing)
 
 **Application of Phyton** : for Data cleaning, Explanatory Data Analysis, and visualization of correlation between variables.
+
 **Application of R studio** : modeling include the evaluation of models with or without interaction between variables predictors, and model improvements according to the result of Residue asumtion. the evaluation include the corralation the variable predictors in statistic and theory way, multicollinear test, stepwise selection (with AIC score), Best Subset (with BIC score), Anova to comparing two of models that nested (with percent of P-value), and Residue asumtion test (Normality Residue test, homoscedasticity Residue test, Variance Residue test, and independent test). 
 
 
