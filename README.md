@@ -7,6 +7,7 @@ Hi, I'm Titi! currently, I am on track to completing my degree in  Mathematic Ma
 ## Table Of Contents
 - [About](https://github.com/TiPramudita/Data-Analyst-Portofolio/blob/main/README.md#about)
 - [Portofolio Projects](https://github.com/TiPramudita/Data-Analyst-Portofolio/blob/main/README.md#portofolio-projects)
+  - [Modeling to Menstrual Cycle](https://github.com/TiPramudita/Data-Analyst-Portofolio/blob/main/README.md#modeling-to-menstrual-cycle-team)
 - [Education](https://github.com/TiPramudita/Data-Analyst-Portofolio/blob/main/README.md#education)
 - [Contacts](https://github.com/TiPramudita/Data-Analyst-Portofolio/blob/main/README.md#contacts)
 ## Portofolio Projects
